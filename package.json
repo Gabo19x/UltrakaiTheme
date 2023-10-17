@@ -1,0 +1,31 @@
+{
+  "name": "ultrakai",
+  "displayName": "Ultra kai",
+  "description": "",
+  "version": "2.0.2",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultra Kai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ultra Kai-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/Gabo19.png",
+  "author": {
+    "name": "Gabriel Pinzon",
+    "url": "https://www.linkedin.com/in/gabriel-pinz%C3%B3n/"
+  },
+  "repository": {
+    "url": "https://github.com/Gabo19x/UltrakaiTheme",
+    "type": "git"
+  },
+  "publisher": "Gabo19"
+}
